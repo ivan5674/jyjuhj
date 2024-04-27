@@ -1,0 +1,113 @@
+<html>
+    <head>
+    <title>Домашние животные</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+  <h1>Домашние животные: коты 😺, собаки 🐶/h1>
+  <h2>😺КОТЫ😺</h2>
+  <h2>Здесь я вам расскажу про факты котов и собак.</h2>
+  <h2 class="h21">1 факт.</h2>
+  <img src="https://www.fonstola.ru/images/202002/fonstola.ru_370905.jpg">
+  <img src="//avatars.mds.yandex.net/i?id=109a0d99492651a1ed73e26422f86b63_l-5233094-images-thumbs&n=13">
+  <h2>Домашние кошки с помощью мяуканья друг с другом не общаются! Эти сигналы они используют только для общения с людьми.</h2>
+  <h2 class="h21">2 факт.</h2>
+  <img class="img2" src="https://images.wallpaperscraft.ru/image/single/kot_osen_hudoj_51170_2560x1707.jpg">
+  <img class="img2" src="https://forumupload.ru/uploads/0019/3c/8c/3/111475.jpg">
+  <h2>Если кот идёт к вам навстречу с поднятом хвостом с изогнутым кончиком,это говорит о том,что он вас уважает.</h2>
+  <h2 class="h21">3 факт.</h2>
+  <img class="img3" src="//avatars.mds.yandex.net/i?id=024e97ee478e51f54e927bc42a7c5c8c_l-5292679-images-thumbs&n=13">
+  <img class="img3" src="https://cdn.fishki.net/upload/post/2023/03/23/4385862/cf63c8d7667894d5f6ade530d74c0038.jpg">
+  <h2>Во время бега домашняя кошка может делать рывки со скоростью до 50 километров в час.</h2>
+  <h2 class="h21">4 факт.</h2>
+  <img class="img4" src="https://i.pinimg.com/originals/63/9e/0b/639e0b2ab61e9662facf9cb7b24c9904.jpg">
+  <img class="img4" src="//avatars.mds.yandex.net/i?id=e888568bcac8eb1f68176dd767d24f20_l-5858325-images-thumbs&n=13">
+  <h2>Не существует кошек с одинаковыми отпечатками носика. Его рисунок уникален, словно отпечаток пальца у человека.</h2>
+  <h2 class="h21">5 факт.</h2>
+  <img class="img5" src="https://mykaleidoscope.ru/uploads/posts/2021-10/1633100905_18-mykaleidoscope-ru-p-koti-morozhenoe-krasivo-foto-22.jpg">
+  <img class="img5" src="https://kotmastak.ru/wp-content/uploads/7/5/5/755619304147eb95fb624baf72dbb8d4.jpeg">
+  <h2>Коты не чувствуют сладкий вкус еды.</h2>
+  <h2>🐶СОБАКИ🐶</h2>
+  <h2 class="h21">1 факт.</h2>
+  <img class="img6" src="//avatars.mds.yandex.net/i?id=77d9a078a81176d266dc9d6b2e94dfe6_l-12543315-images-thumbs&n=13">
+  <img class="img6" src="https://s1.1zoom.ru/big7/250/Dogs_Jack_Russell_429649.jpg">
+  <h2>У собак хороший слух — они слышат в 2 раза лучше, чем человек.</h2>
+  <h2 class="h21">2 факт.</h2>
+  <img class="img7" src="https://storage-api.petstory.ru/resize/1000x1000x80/ed/7f/1e/ed7f1ee6e5d44773b1722e439e21c2c6.jpeg">
+  <img class="img7" src="//avatars.mds.yandex.net/i?id=19234e1ee3e12f6e51ae75a9d709c6f7_l-9985849-images-thumbs&n=13">
+  <h2>Виляние хвостом — это не всегда выражение радости. Наклоняя хвост налево, пёс подаёт сородичам сигнал тревоги.</h2>
+  <h2 class="h21">3 факт.</h2>
+  <img class="img8" src="https://fanibani.ru/wp-content/uploads/2022/12/2b5482ecc0037126afa4cd5cc50a97dd-scaled.jpg">
+  <img class="img8" src="//avatars.mds.yandex.net/i?id=17de332c46af73d10b9566fdebd3be63_l-4590689-images-thumbs&n=13">
+  <h2>У щенков 28 зубов, а взрослых собак — 42.</h2>
+  <h2 class="h21">4 факт.</h2>
+  <img class="img9" src="https://haski-mana.ru/wp-content/uploads/7/7/3/773579324eb8b4c94ef216492537c4b5.jpeg">
+  <img class="img9" src="//avatars.mds.yandex.net/i?id=54f79b08f058f4a7501199ce3d5e94b9_l-9098008-images-thumbs&n=13">
+  <h2>Собака чувствует запах в 10 000–100 000 раз лучше, чем человек.</h2>
+  <h2 class="h21">5 факт.</h2>
+  <img class="img10" src="https://windowman.ru/wp-content/uploads/1/5/c/15c4492d2bedc7a5a0fd534c1f7d8e10.jpeg">
+  <h2>Все любят обниматься со своими питомцами, но никто даже не догадывается о том, что ему это не нравится. Собаки воспринимают это как доминирование.</h2>
+  </body>
+</html>
+
+h1 {
+    text-align:center;
+    background-color: yellow;
+}
+
+
+h2 {
+    text-align:center;
+    background-color: yellow;
+}
+
+
+body {
+    font-family: sans-serif;
+    background-color: yellow;
+}
+
+img {
+    height: 349;
+    
+}
+
+.h21{
+    color: red;
+}
+
+.img2{
+    height: 343
+}
+
+.img3{
+    height: 412
+}
+
+.img4{
+    height: 387
+}
+
+.img5{
+    height: 352
+}
+
+.img6{
+    height: 349
+}
+
+.img7{
+    height: 421
+}
+
+.img8{
+    height: 343
+}
+
+.img9{
+    height: 331
+}
+
+.img10{
+    height: 476
+}
